@@ -1,0 +1,1 @@
+A simple and user-friendly Student Grade Calculator that calculates total marks, average percentage, and final grade based on subject-wise marks. This project demonstrates basic programming concepts such as input handling, calculations, conditional statements, and result display.
